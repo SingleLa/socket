@@ -10,6 +10,8 @@ import java.net.Socket;
 
 /**
  * Created by Administrator on 2018/4/23.
+ * 消息通信优化
+ * 双向通信，发送消息并接受消息
  */
 public class SocketServerDemo {
     private ServerSocket serverSocket;
