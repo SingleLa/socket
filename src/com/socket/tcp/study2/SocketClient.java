@@ -1,4 +1,4 @@
-package com.socket.study2;
+package com.socket.tcp.study2;
 
 import java.io.InputStream;
 import java.io.OutputStream;
